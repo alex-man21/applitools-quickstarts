@@ -1,3 +1,6 @@
 [submodule "example-selenium-java-basic"]
 	path = example-selenium-java-basic
 	url = https://github.com/applitools/example-selenium-java-basic.git
+[submodule "example-selenium-javascript-jest"]
+	path = example-selenium-javascript-jest
+	url = https://github.com/applitools/example-selenium-javascript-jest.git
