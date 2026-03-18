@@ -1,0 +1,15 @@
+[submodule "example-selenium-java-basic"]
+	path = example-selenium-java-basic
+	url = https://github.com/applitools/example-selenium-java-basic.git
+[submodule "example-selenium-javascript-jest"]
+	path = example-selenium-javascript-jest
+	url = https://github.com/applitools/example-selenium-javascript-jest.git
+[submodule "tutorial-selenium-ruby-ultrafastgrid"]
+	path = tutorial-selenium-ruby-ultrafastgrid
+	url = https://github.com/applitools/tutorial-selenium-ruby-ultrafastgrid.git
+[submodule "example-selenium-csharp-mstest"]
+	path = example-selenium-csharp-mstest
+	url = https://github.com/applitools/example-selenium-csharp-mstest.git
+[submodule "example-selenium-python-pytest"]
+	path = example-selenium-python-pytest
+	url = https://github.com/applitools/example-selenium-python-pytest.git
