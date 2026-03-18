@@ -7,3 +7,6 @@
 [submodule "tutorial-selenium-ruby-ultrafastgrid"]
 	path = tutorial-selenium-ruby-ultrafastgrid
 	url = https://github.com/applitools/tutorial-selenium-ruby-ultrafastgrid.git
+[submodule "example-selenium-csharp-mstest"]
+	path = example-selenium-csharp-mstest
+	url = https://github.com/applitools/example-selenium-csharp-mstest.git
