@@ -40,3 +40,6 @@
 [submodule "example-robot-framework"]
 	path = example-robot-framework
 	url = https://github.com/applitools/example-robot-framework.git
+[submodule "example-puppeteer-javascript"]
+	path = example-puppeteer-javascript
+	url = https://github.com/applitools/example-puppeteer-javascript.git
