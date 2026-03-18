@@ -10,3 +10,6 @@
 [submodule "example-selenium-csharp-mstest"]
 	path = example-selenium-csharp-mstest
 	url = https://github.com/applitools/example-selenium-csharp-mstest.git
+[submodule "example-selenium-python-pytest"]
+	path = example-selenium-python-pytest
+	url = https://github.com/applitools/example-selenium-python-pytest.git
