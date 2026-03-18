@@ -4,3 +4,6 @@
 [submodule "example-selenium-javascript-jest"]
 	path = example-selenium-javascript-jest
 	url = https://github.com/applitools/example-selenium-javascript-jest.git
+[submodule "tutorial-selenium-ruby-ultrafastgrid"]
+	path = tutorial-selenium-ruby-ultrafastgrid
+	url = https://github.com/applitools/tutorial-selenium-ruby-ultrafastgrid.git
