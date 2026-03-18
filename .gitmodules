@@ -16,3 +16,6 @@
 [submodule "example-eyes-playwright-fixture"]
 	path = example-eyes-playwright-fixture
 	url = https://github.com/applitools/example-eyes-playwright-fixture.git
+[submodule "example-playwright-java"]
+	path = example-playwright-java
+	url = https://github.com/applitools/example-playwright-java.git
