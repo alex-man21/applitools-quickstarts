@@ -2,6 +2,8 @@
 
 This is a monorepo consisting of all Applitools Quickstart tutorials. Each quickstart tutorial will be automatically updated to the latest version of the respective eyes-SDK and have a weekly build pipeline to detect any breaking changes or regressions.
 
+### Web:
+
 Selenium:
 - https://github.com/applitools/example-selenium-csharp-mstest.git
 - https://github.com/applitools/example-selenium-java-basic.git
@@ -15,3 +17,10 @@ Playwright:
 - https://github.com/applitools/example-playwright-java.git
 - https://github.com/applitools/example-playwright-python.git
 - https://github.com/applitools/example-playwright-csharp.git
+
+Other:
+- https://github.com/applitools/example-cypress-javascript.git
+- https://github.com/applitools/tutorial-testcafe.git
+- https://github.com/applitools/example-webdriverio-javascript.git
+- https://github.com/applitools/example-robot-framework.git
+- https://github.com/applitools/example-puppeteer-javascript.git

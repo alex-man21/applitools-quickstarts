@@ -28,3 +28,18 @@
 [submodule "example-playwright-csharp"]
 	path = example-playwright-csharp
 	url = https://github.com/applitools/example-playwright-csharp.git
+[submodule "example-cypress-javascript"]
+	path = example-cypress-javascript
+	url = https://github.com/applitools/example-cypress-javascript.git
+[submodule "tutorial-testcafe"]
+	path = tutorial-testcafe
+	url = https://github.com/applitools/tutorial-testcafe.git
+[submodule "example-webdriverio-javascript"]
+	path = example-webdriverio-javascript
+	url = https://github.com/applitools/example-webdriverio-javascript.git
+[submodule "example-robot-framework"]
+	path = example-robot-framework
+	url = https://github.com/applitools/example-robot-framework.git
+[submodule "example-puppeteer-javascript"]
+	path = example-puppeteer-javascript
+	url = https://github.com/applitools/example-puppeteer-javascript.git
