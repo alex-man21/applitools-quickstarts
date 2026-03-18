@@ -22,3 +22,6 @@
 [submodule "example-playwright-python"]
 	path = example-playwright-python
 	url = https://github.com/applitools/example-playwright-python.git
+[submodule "example-playwright-typescript"]
+	path = example-playwright-typescript
+	url = https://github.com/applitools/example-playwright-typescript.git
