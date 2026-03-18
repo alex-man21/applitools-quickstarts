@@ -31,3 +31,6 @@
 [submodule "example-cypress-javascript"]
 	path = example-cypress-javascript
 	url = https://github.com/applitools/example-cypress-javascript.git
+[submodule "tutorial-testcafe"]
+	path = tutorial-testcafe
+	url = https://github.com/applitools/tutorial-testcafe.git
