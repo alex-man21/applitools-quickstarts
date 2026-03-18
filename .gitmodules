@@ -25,3 +25,6 @@
 [submodule "example-playwright-typescript"]
 	path = example-playwright-typescript
 	url = https://github.com/applitools/example-playwright-typescript.git
+[submodule "example-playwright-csharp"]
+	path = example-playwright-csharp
+	url = https://github.com/applitools/example-playwright-csharp.git
