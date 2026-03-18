@@ -13,3 +13,18 @@
 [submodule "example-selenium-python-pytest"]
 	path = example-selenium-python-pytest
 	url = https://github.com/applitools/example-selenium-python-pytest.git
+[submodule "example-eyes-playwright-fixture"]
+	path = example-eyes-playwright-fixture
+	url = https://github.com/applitools/example-eyes-playwright-fixture.git
+[submodule "example-playwright-java"]
+	path = example-playwright-java
+	url = https://github.com/applitools/example-playwright-java.git
+[submodule "example-playwright-python"]
+	path = example-playwright-python
+	url = https://github.com/applitools/example-playwright-python.git
+[submodule "example-playwright-typescript"]
+	path = example-playwright-typescript
+	url = https://github.com/applitools/example-playwright-typescript.git
+[submodule "example-playwright-csharp"]
+	path = example-playwright-csharp
+	url = https://github.com/applitools/example-playwright-csharp.git
