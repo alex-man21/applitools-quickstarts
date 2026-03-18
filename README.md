@@ -15,3 +15,6 @@ Playwright:
 - https://github.com/applitools/example-playwright-java.git
 - https://github.com/applitools/example-playwright-python.git
 - https://github.com/applitools/example-playwright-csharp.git
+
+Other:
+- https://github.com/applitools/example-cypress-javascript.git

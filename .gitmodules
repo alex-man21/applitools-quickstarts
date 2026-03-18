@@ -28,3 +28,6 @@
 [submodule "example-playwright-csharp"]
 	path = example-playwright-csharp
 	url = https://github.com/applitools/example-playwright-csharp.git
+[submodule "example-cypress-javascript"]
+	path = example-cypress-javascript
+	url = https://github.com/applitools/example-cypress-javascript.git
