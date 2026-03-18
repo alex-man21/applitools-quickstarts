@@ -19,3 +19,6 @@
 [submodule "example-playwright-java"]
 	path = example-playwright-java
 	url = https://github.com/applitools/example-playwright-java.git
+[submodule "example-playwright-python"]
+	path = example-playwright-python
+	url = https://github.com/applitools/example-playwright-python.git
