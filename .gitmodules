@@ -34,3 +34,6 @@
 [submodule "tutorial-testcafe"]
 	path = tutorial-testcafe
 	url = https://github.com/applitools/tutorial-testcafe.git
+[submodule "example-webdriverio-javascript"]
+	path = example-webdriverio-javascript
+	url = https://github.com/applitools/example-webdriverio-javascript.git

@@ -19,3 +19,4 @@ Playwright:
 Other:
 - https://github.com/applitools/example-cypress-javascript.git
 - https://github.com/applitools/tutorial-testcafe.git
+- https://github.com/applitools/example-webdriverio-javascript.git
