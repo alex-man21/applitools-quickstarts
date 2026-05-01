@@ -43,9 +43,6 @@
 [submodule "example-puppeteer-javascript"]
 	path = example-puppeteer-javascript
 	url = https://github.com/applitools/example-puppeteer-javascript.git
-[submodule "example-cypress-components"]
-	path = example-cypress-components
-	url = https://github.com/Yaniv-Adi/example-cypress-components
 [submodule "tutorial-storybook-csf-react"]
 	path = tutorial-storybook-csf-react
 	url = https://github.com/applitools/tutorial-storybook-csf-react.git
