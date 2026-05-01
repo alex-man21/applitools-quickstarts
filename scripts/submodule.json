@@ -1,0 +1,131 @@
+[
+    {
+        "name": "example-cypress-javascript",
+        "remote_owner_repo": "applitools/example-cypress-javascript",
+        "package_manager": "npm",
+        "default_branch": "main",
+        "sdk_package": "@applitools/eyes-cypress",
+        "test_command": "npm run test",
+        "build_command": "npm ci",
+        "runner": "ubuntu-latest",
+        "node_version": 22
+    },
+    {
+        "name": "example-eyes-playwright-fixture",
+        "remote_owner_repo": "applitools/example-eyes-playwright-fixture",
+        "package_manager": "npm",
+        "default_branch": "main",
+        "sdk_package": "@applitools/eyes-playwright",
+        "test_command": "npm run test",
+        "build_command": "npm ci",
+        "runner": "ubuntu-latest",
+        "node_version": 22,
+        "playwright_install": "true"
+    },
+    {
+        "name": "example-playwright-csharp",
+        "remote_owner_repo": "applitools/example-playwright-csharp",
+        "package_manager": "nuget",
+        "default_branch": "main",
+        "sdk_package": "Eyes.Playwright",
+        "test_command": "dotnet test",
+        "build_command": "dotnet build",
+        "runner": "windows-latest",
+        "dotnet_version": "7.0.x",
+        "playwright_install": "true"
+    },
+    {
+        "name": "example-playwright-java",
+        "remote_owner_repo": "applitools/example-playwright-java",
+        "package_manager": "mvn",
+        "default_branch": "main",
+        "sdk_package": "eyes-playwright-java5",
+        "sdk_group": "com.applitools",
+        "test_command": "mvn clean test",
+        "build_command": "mvn install",
+        "runner": "ubuntu-latest",
+        "java_version": "17",
+        "playwright_install": "true"
+    },
+    {
+        "name": "example-playwright-python",
+        "remote_owner_repo": "applitools/example-playwright-python",
+        "package_manager": "pip",
+        "default_branch": "main",
+        "sdk_package": "eyes-playwright",
+        "test_command": "python3 -m pytest -s -v tests",
+        "build_command": "pip install -r requirements.txt",
+        "runner": "ubuntu-latest",
+        "python_version": "3.x",
+        "playwright_install": "true"
+    },
+    {
+        "name": "example-playwright-typescript",
+        "remote_owner_repo": "applitools/example-playwright-typescript",
+        "package_manager": "npm",
+        "default_branch": "main",
+        "sdk_package": "@applitools/eyes-playwright",
+        "test_command": "npm run test",
+        "build_command": "npm ci",
+        "runner": "ubuntu-latest",
+        "node_version": "22",
+        "playwright_install": "true"
+    },
+    {
+        "name": "example-puppeteer-javascript",
+        "remote_owner_repo": "applitools/example-puppeteer-javascript",
+        "package_manager": "npm",
+        "default_branch": "main",
+        "sdk_package": "@applitools/eyes-puppeteer",
+        "test_command": "npm run test",
+        "build_command": "npm ci",
+        "runner": "ubuntu-latest",
+        "node_version": "22"
+    },
+    {
+
+        "name": "example-robot-framework",
+        "remote_owner_repo": "applitools/example-robot-framework",
+        "package_manager": "pip",
+        "default_branch": "main",
+        "sdk_package": "eyes-robotframework",
+        "test_command": "robot acme_bank.robot",
+        "build_command": "pip install -r requirements.txt",
+        "runner": "ubuntu-latest",
+        "python_version": "3.x"
+    },
+    {
+        "name": "example-selenium-csharp-mtest",
+        "remote_owner_repo": "applitools/example-selenium-csharp-mtest",
+        "package_manager": "nuget",
+        "default_branch": "main",
+        "sdk_package": "Eyes.Selenium4",
+        "test_command": "dotnet test",
+        "build_command": "dotnet build",
+        "runner": "windows-latest",
+        "dotnet_version": "7.0.x"
+    },
+    {
+        "name": "example-selenium-java-basic",
+        "remote_owner_repo": "applitools/example-selenium-java-basic",
+        "package_manager": "mvn",
+        "default_branch": "main",
+        "sdk_package": "eyes-selenium-java5",
+        "sdk_group": "com.applitools",
+        "test_command": "mvn clean test",
+        "build_command": "mvn install",
+        "runner": "ubuntu-latest",
+        "java_version": "17"
+    },
+    {
+        "name": "example-webdriverio-javascript",
+        "remote_owner_repo": "applitools/example-webdriverio-javascript",
+        "package_manager": "npm",
+        "default_branch": "main",
+        "sdk_package": "@applitools/eyes-webdriverio",
+        "test_command": "npm run test",
+        "build_command": "npm ci",
+        "runner": "ubuntu-latest",
+        "node_version": 22
+    }
+]
